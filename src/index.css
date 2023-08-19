@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 490px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: rgb(70, 202, 185);
+}
+h3{
+    color: rgb(25, 165, 123);
+
+}
+.card{
+    width: 540px;
+    height: 220px;
+    background-color: rgb(173, 241, 219);
+}
+span{
+    background-color:rgb(19, 155, 114);
+    color: rgb(15, 124, 91);
+    border-radius: 2px;
+}
+.income-in{
+    width: 120px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    background-color: aqua;
+    border: none;
+}
+.expense-out{
+    width: 120px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    background-color: red;
+    border: none;
+}
